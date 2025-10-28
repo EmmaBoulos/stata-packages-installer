@@ -39,6 +39,7 @@ The script provided in this repository installs the following commonly used Stat
 - vcemway
 - wooldid
 - wyoung
+- marginsplot
 
 ## Usage
 
